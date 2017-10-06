@@ -1,0 +1,58 @@
+body{
+	text-align: center;
+	background-color: black; 
+
+}
+/*cambiar color de fondo del div*/
+.cuadrado-color{
+	background-color: #B10000;
+	border: 1px dotted black;
+	padding-bottom: 20px;/*dar espacio*/
+}
+
+.info{
+	background-color: orange;
+	border-top: 1px solid black;
+
+}
+
+.enlaces{
+	background-color: yellow;
+	border-top: 1px solid black;
+}
+
+/*Cambiar tipografía*/
+h1{
+	font-family: 'Abril Fatface', cursive;
+	color: white; /*Cambiar color de texto*/
+}
+
+h3{
+	font-family: 'Abril Fatface', cursive;
+}
+
+h4{
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+}
+
+h5{
+	font-family: 'Abril Fatface', cursive;
+	color: white;	
+}
+
+p{
+	font-family: 'Rubik', sans-serif;
+}
+
+/*Cambiar tamaño imagenes
+img{
+	height: 400px; alto
+	width: 1000px ; ancho
+}*/
+
+.img-logo{
+	height: 400px; 
+	width: 1000px ;
+	border-image: 1px solid black;
+}
